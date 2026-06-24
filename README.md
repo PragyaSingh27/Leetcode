@@ -12,9 +12,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/PragyaSingh27/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PragyaSingh27/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PragyaSingh27/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/PragyaSingh27/Leetcode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
