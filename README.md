@@ -22,9 +22,18 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PragyaSingh27/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PragyaSingh27/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2574-left-and-right-sum-differences](https://github.com/PragyaSingh27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/PragyaSingh27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PragyaSingh27/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PragyaSingh27/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
